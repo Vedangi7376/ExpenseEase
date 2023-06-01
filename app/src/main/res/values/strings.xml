@@ -1,0 +1,32 @@
+<resources>
+    <!--front page and registration -->
+    <string name="app_name">ExpenseEase</string>
+    <string name="Get_started">Get started</string>
+    <string name="login">LOGIN</string>
+    <string name="Email">Your email</string>
+    <string name="examplemail">example@gmail.com</string>
+    <string name="Pass">Your password</string>
+    <string name="new_user">New user?</string>
+    <string name="register">Register</string>
+    <string name="loginpage">Just one step more to manage       your expenses</string>
+    <string name="alreadyacc">Already have an account?</string>
+    <!--Registration-->
+    <string name="Name">Name</string>
+    <string name="email1">Email</string>
+    <string name="password">Password</string>
+    <string name="Create_acc">Create account</string>
+    <string name="acccreate">Lets create your profile</string>
+    <string name="Signup">Sign up</string>
+    <string name="budget">budget</string>
+    <string name="setting">setting</string>
+    <string name="alert">alert</string>
+    <string name="home">home</string>
+    <string name="report">report</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="recent_expenses">Recent Expenses</string>
+    <string name="quick_tips">Quick Tips</string>
+    <string name="scan_your_receipts">Scan your Receipts</string>
+    <string name="add_budget">ADD BUDGET</string>
+    <string name="set_alert">SET ALERT</string>
+    <string name="add_expenses">ADD EXPENSES</string>
+</resources>
